@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Quintiliano
+-Profissão: QA
+-Cidade: Cachoeiro de Itapemirim
+-O que faz nas horas vaga: Estudo, assisto filmes...
+-Feedback sobre o curso Qualidade de Software: Estou gostando muito, pois mesmo com a experiência como QA que já tenho, está me possibilitando aprender novas técnicas e novas formas que posso empregar no meu dia a dia do trabalho.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma rápida, e fácil utilização.
+
+Obrigado!!!
+
+

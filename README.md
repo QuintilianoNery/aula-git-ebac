@@ -1,2 +1,2 @@
-# aula-git-ebac
-Aprendendo um pouco mais sobre git
+# Aula Git EBAC
+Aprendendo um pouco mais sobre git.
